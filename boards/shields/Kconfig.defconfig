@@ -1,0 +1,6 @@
+if SHIELD_two_percent_milk
+
+config ZMK_KEYBOARD_NAME
+    default "milk"
+
+endif
